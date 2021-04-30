@@ -1,0 +1,17 @@
+
+[
+  {
+    "comment": "正确",
+    "name": "SUCC_CODE",
+    "code": "0"
+  },
+  {
+    "comment": ""
+  },
+  {
+    "include": "./base.json"
+  },
+  {
+    "comment": ""
+  }
+]

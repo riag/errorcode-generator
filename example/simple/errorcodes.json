@@ -1,0 +1,29 @@
+
+[
+  {
+    "comment": "正确",
+    "name": "SUCC_CODE",
+    "code": "0"
+  },
+  {
+    "comment": ""
+  },
+  {
+    "comment": "服务器异常",
+    "name": "SERVER_ERROR",
+    "code": "100"
+  },
+  {
+    "comment": "缺少参数",
+    "name": "MISSING_ARG_ERROR",
+    "code": "101"
+  },
+  {
+    "comment": "校验参数失败",
+    "name": "VALIDATE_ARG_ERROR",
+    "code": "102"
+  },
+  {
+    "comment": ""
+  }
+]
