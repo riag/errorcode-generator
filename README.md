@@ -5,7 +5,7 @@
 ## 安装
 
 ```
-pip3 install https://github.com/riag/errorcode-generator/releases/download/0.1.1/errorcode_generator-0.1.1-py3-none-any.whl
+pip3 install errorcode-generator
 ```
 
 ## 使用
