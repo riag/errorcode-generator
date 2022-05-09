@@ -107,16 +107,18 @@ markdown_tmp = """
 """
 asciidoc_tmp = """
 [cols="^,^",options="header"]
-|==
+|===
 |错误码
 |错误描述
 
 {% for item in errorcodes %}
     {% if not item.is_comment() %}
+
 |{{item.code}} 
 |{{item.comment}}
     {% endif %}
 {% endfor %}
+|===
 """
 
 rst_tmp = """
