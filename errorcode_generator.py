@@ -106,7 +106,7 @@ markdown_tmp = """
 {% endfor %}
 """
 asciidoc_tmp = """
-[cols="^,^",options="header"]
+[cols=".^,.^",options="header"]
 |===
 |错误码
 |错误描述

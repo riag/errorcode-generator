@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "errorcode-generator"
-version = "0.1.2"
+version = "0.1.3"
 description = "根据模板文件生成各种错误码文本格式"
 authors = ["riag <riag@163.com>"]
 license = "BSD-4-Clause"
